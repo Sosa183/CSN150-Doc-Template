@@ -18,6 +18,8 @@ ESP32-CAM: Set Access Point (AP) for Web Server (Arduino IDE)
 -https://randomnerdtutorials.com/esp32-cam-access-point-ap-web-server/
 
 ##### Other Links:
+GitHub repository
+https://github.com/ereedsanchez/CSN150-Doc-Template/tree/main
 
 
 ## Steps I followed
